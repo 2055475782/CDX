@@ -1,37 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://2055475782.github.io/CDX/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://2055475782.github.io/CDX/ja/sitemap.xml</loc>
-    
-      <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://2055475782.github.io/CDX/zh-cn/sitemap.xml</loc>
-    
-      <lastmod>2025-12-29T01:30:33+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://2055475782.github.io/CDX/zh-tw/sitemap.xml</loc>
-    
-      <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://2055475782.github.io/CDX/ar/sitemap.xml</loc>
-    
-      <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://2055475782.github.io/CDX/</loc>
+    <lastmod>2025-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2055475782.github.io/CDX/categories/</loc>
+    <lastmod>2025-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2055475782.github.io/CDX/post/</loc>
+    <lastmod>2025-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2055475782.github.io/CDX/p/surprise-for-bao/</loc>
+    <lastmod>2025-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2055475782.github.io/CDX/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2025-12-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2055475782.github.io/CDX/p/test-chinese/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2055475782.github.io/CDX/categories/test/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2055475782.github.io/CDX/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2055475782.github.io/CDX/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2055475782.github.io/CDX/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://2055475782.github.io/CDX/tags/</loc>
+  </url><url>
+    <loc>https://2055475782.github.io/CDX/categories/%E3%83%86%E3%82%B9%E3%83%88/</loc>
+  </url><url>
+    <loc>https://2055475782.github.io/CDX/categories/%E6%B8%AC%E8%A9%A6/</loc>
+  </url><url>
+    <loc>https://2055475782.github.io/CDX/%E5%85%B3%E4%BA%8E/</loc>
+  </url><url>
+    <loc>https://2055475782.github.io/CDX/%E9%93%BE%E6%8E%A5/</loc>
+  </url><url>
+    <loc>https://2055475782.github.io/CDX/search/</loc>
+  </url>
+</urlset>
