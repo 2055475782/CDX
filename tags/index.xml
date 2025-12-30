@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on CDX_LXR</title>
-        <link>https://2055475782.github.io/CDX/tags/</link>
+        <link>https://cdxlovelxr.xyz/tags/</link>
         <description>Recent content in Tags on CDX_LXR</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <copyright>CDX</copyright><atom:link href="https://2055475782.github.io/CDX/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>CDX</copyright><atom:link href="https://cdxlovelxr.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
